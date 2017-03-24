@@ -1,5 +1,5 @@
 {
-  "name": "@ducret201/react-pdfkit",
+  "name": "@performanceimmo/react-pdfkit",
   "version": "0.1.2",
   "description": "React renderer to generate PDF documents with pdfkit",
   "main": "./index.js",
